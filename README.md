@@ -1,5 +1,10 @@
 # ONT-API (ver. 1.4.2)
 
+## Notice
+**The activity in this repository is frozen.
+The v1.4.2 is the last release under the domain 'ru.avicomp'. 
+The new project's home is https://github.com/owlcs/ont-api**
+
 ## Summary
 ONT-API is an implementation of OWL-API over Apache Jena.
 
