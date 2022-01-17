@@ -21,6 +21,7 @@ import org.apache.jena.rdf.model.impl.ModelCom;
 import org.apache.jena.vocabulary.RDF;
 import org.apache.jena.vocabulary.RDFS;
 import org.topbraid.spin.model.*;
+import org.topbraid.spin.model.Module;
 import org.topbraid.spin.model.impl.*;
 import org.topbraid.spin.model.update.impl.*;
 import org.topbraid.spin.util.SimpleImplementation;
